@@ -1,4 +1,4 @@
-# DamienHirstPainting
+# Damien Hirst Painting (Million Dollar Paintings)
 My 1st imported module (Turtle)
 
 - In this Project I learned how to import a module (other than random)
