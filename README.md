@@ -25,4 +25,4 @@ This Python project creates an abstract dot painting inspired by Damien Hirst's 
 bash
 Copy code
 python Million_Dollar_Painting.py.py
-The painting will appear in a turtle graphics window. Click on the window to close it when you're done.
+- The painting will appear in a turtle graphics window. Click on the window to close it when you're done.
