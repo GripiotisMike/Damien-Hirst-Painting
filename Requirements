@@ -1,0 +1,9 @@
+To run this project, you'll need the following Python libraries:
+
+- turtle (typically pre-installed with Python)
+- colorgram (used to extract colors from an image)
+- Install colorgram using pip:
+
+bash
+Copy code:
+pip install colorgram.py
